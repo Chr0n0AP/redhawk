@@ -1,0 +1,39 @@
+[submodule "redhawk-ide/mvn-parent"]
+	path = redhawk-ide/mvn-parent
+	url = https://github.com/Chr0n0AP/mvn-parent.git
+[submodule "redhawk-ide/mil.jpeojtrs.sca"]
+	path = redhawk-ide/mil.jpeojtrs.sca
+	url = https://github.com/Chr0n0AP/mil.jpeojtrs.sca.git
+[submodule "redhawk-ide/gov.redhawk.explorer.product"]
+	path = redhawk-ide/gov.redhawk.explorer.product
+	url = https://github.com/Chr0n0AP/gov.redhawk.explorer.product.git
+[submodule "redhawk-ide/gov.redhawk.core"]
+	path = redhawk-ide/gov.redhawk.core
+	url = https://github.com/Chr0n0AP/gov.redhawk.core.git
+[submodule "redhawk-ide/gov.redhawk.ide.product"]
+	path = redhawk-ide/gov.redhawk.ide.product
+	url = https://github.com/Chr0n0AP/gov.redhawk.ide.product.git
+[submodule "redhawk-ide/gov.redhawk.codegen"]
+	path = redhawk-ide/gov.redhawk.codegen
+	url = https://github.com/Chr0n0AP/gov.redhawk.codegen.git
+[submodule "redhawk-ide/redhawk-ide-uitests"]
+	path = redhawk-ide/redhawk-ide-uitests
+	url = https://github.com/Chr0n0AP/redhawk-ide-uitests.git
+[submodule "redhawk-ide/gov.redhawk.ide"]
+	path = redhawk-ide/gov.redhawk.ide
+	url = https://github.com/Chr0n0AP/gov.redhawk.ide.git
+[submodule "redhawk-dependencies/librtlsdr"]
+	path = redhawk-dependencies/librtlsdr
+	url = https://github.com/Chr0n0AP/librtlsdr.git
+[submodule "redhawk-dependencies/libRfSimulators"]
+	path = redhawk-dependencies/libRfSimulators
+	url = https://github.com/Chr0n0AP/libRfSimulators.git
+[submodule "redhawk-dependencies/omniEvents"]
+	path = redhawk-dependencies/omniEvents
+	url = https://github.com/Chr0n0AP/omniEvents.git
+[submodule "redhawk-core-framework"]
+	path = redhawk-core-framework
+	url = https://github.com/Chr0n0AP/core-framework.git
+[submodule "redhawk-assets"]
+	path = redhawk-assets
+	url = https://github.com/Chr0n0AP/assets.git
